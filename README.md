@@ -28,6 +28,12 @@
 <p>Width of the road — d</p>
 <p>Time spent to cross the road — t</p>
 
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/geo-scheme.jpg"
+  alt="VSCode Blockman Icon"
+  width="800px"
+/></p>
+
 <h3>Answer:</h3>
 <p>α = arcsin(1/n)</p>
 
