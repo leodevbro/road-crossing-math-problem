@@ -45,7 +45,7 @@ In Georgian (ქართული): https://drive.google.com/file/d/0B_4P3RNorJ
   alt="math formula"
 /></p>
 
-<p><strong>b</strong> does not change the maximality, so we can remove it.</p>
+<p><strong>b</strong> affects the maximum, but it does not affect the best angle to get maximum, so we can remove it.</p>
 
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-03.png"
@@ -57,7 +57,7 @@ In Georgian (ქართული): https://drive.google.com/file/d/0B_4P3RNorJ
   alt="math formula"
 /></p>
 
-<p><strong>d</strong> does not change the maximality, so we can remove it.</p>
+<p><strong>d</strong> affects the maximum, but it does not affect the best angle to get maximum, so we can remove it.</p>
 
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-05.png"
