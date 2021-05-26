@@ -16,7 +16,17 @@
 
 
 <h3>Solution:</h3>
-<p>dfsfsdf</p>
+<p>In order to get the best angle with maximum probability of crossing the road before the car approaches ---- when the pedestrian crosses the road, the distance between the car and him/her must be maximum</p>
+
+<p><strong>First, define the variables:</strong></p>
+<p>Speed of the pedestrian — V</p>
+<p>Speed of the car — n⋅V</p>
+<p>Horizontal speed of the pedestrian — V<sub>x</sub></p>
+<p>Vertical speed of the pedestrian — V<sub>y</sub></p>
+<p>Horizontal distance between the first and the last point of the pedestrian — a (not α)</p>
+<p>Horizontal distance between the car and the pedestrian — b</p>
+<p>Width of the road — d</p>
+<p>Time spent to cross the road — t</p>
 
 <h3>Answer:</h3>
 <p>α = arcsin(1/n)</p>
