@@ -1,3 +1,4 @@
+In Georgian (ქართული): https://drive.google.com/file/d/0B_4P3RNorJzTN3h0Z3cwaG04SXc
 # Real life math problem and solution
 
 <h3>Crossing The Road As A Pedestrian:</h3>
