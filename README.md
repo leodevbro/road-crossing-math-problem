@@ -16,3 +16,13 @@
 
 
 <h3>Solution:</h3>
+<p>dfsfsdf</p>
+
+<h3>Answer:</h3>
+<p>α = arcsin(1/n)</p>
+
+<h3>Geogebra plot:</h3>
+<p>y = b + d ⋅ tan(α) - n⋅V⋅d/(V ⋅ cos(α))</p>
+<p>and</p>
+<p>α = arcsin(1/n)</p>
+<a href="https://www.geogebra.org/m/YV7g2YKA">https://www.geogebra.org/m/YV7g2YKA</a>
