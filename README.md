@@ -16,7 +16,7 @@
 
 
 <h3>Solution:</h3>
-<p>In order to get the best angle with maximum probability of crossing the road before the car approaches ---- when the pedestrian crosses the road, the distance between the car and him/her must be maximum</p>
+<p>In order to get the best angle with maximum probability of crossing the road before the car approaches ---- when the pedestrian crosses the road, the distance between the car and him/her must be maximum:</p>
 
 <p><strong>First, define the variables:</strong></p>
 <p>Speed of the pedestrian — V</p>
@@ -30,8 +30,45 @@
 
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/geo-scheme.jpg"
-  alt="VSCode Blockman Icon"
+  alt="math formula"
   width="800px"
+/></p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-01.png"
+  alt="math formula"
+/></p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-02.png"
+  alt="math formula"
+  width="500px"
+/></p>
+
+<p><strong>b</strong> does not change the maximality, so we can remove it.</p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-03.png"
+  alt="math formula"
+  width="500px"
+/></p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-04.png"
+  alt="math formula"
+  width="450px"
+/></p>
+
+<p><strong>d</strong> does not change the maximality, so we can remove it.</p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-05.png"
+  alt="math formula"
+/></p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-06.png"
+  alt="math formula"
 /></p>
 
 <h3>Answer:</h3>
