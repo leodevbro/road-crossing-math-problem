@@ -42,7 +42,6 @@
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-02.png"
   alt="math formula"
-  width="500px"
 /></p>
 
 <p><strong>b</strong> does not change the maximality, so we can remove it.</p>
@@ -50,13 +49,11 @@
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-03.png"
   alt="math formula"
-  width="500px"
 /></p>
 
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-04.png"
   alt="math formula"
-  width="450px"
 /></p>
 
 <p><strong>d</strong> does not change the maximality, so we can remove it.</p>
