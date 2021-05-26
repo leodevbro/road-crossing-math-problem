@@ -68,7 +68,7 @@
   alt="math formula"
 /></p>
 
-<p>In order to find an extremum of a function, we must equalize its derivative to zero:</p>
+<p>In order to find the extremum of a function, we must equalize its derivative to zero:</p>
 
 <p align="center"><img
   src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-07.png"
