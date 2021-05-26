@@ -68,6 +68,22 @@
   alt="math formula"
 /></p>
 
+<p>In order to find an extremum of a function, we must equalize its derivative to zero:</p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-07.png"
+  alt="math formula"
+/></p>
+
+<p><strong>cos<sup>2</sup>(α)</strong> cannot be zero, so <strong>α</strong> cannot be 90°, and therefore:</p>
+
+<p align="center"><img
+  src="https://raw.githubusercontent.com/leodevbro/road-crossing-math-problem/main/image/sn-08.png"
+  alt="math formula"
+/></p>
+
+<p>And finally, <strong>α = arcsin(1/n)</strong> because we already knew that <strong>0 &leq; α &lt; 90°</strong> and <strong>n &gt; 1</strong>.</p>
+
 <h3>Answer:</h3>
 <p>α = arcsin(1/n)</p>
 
