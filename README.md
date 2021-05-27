@@ -13,7 +13,9 @@ In Georgian (ქართული): https://drive.google.com/file/d/0B_4P3RNorJ
 
 <p>1) n &gt; 1</p>
 <p>2) 0 &leq; α &lt; 90°</p>
-<p>3) The distance between the car and the pedestrian is unknown</p>
+<p>3) The width of the road is unknown</p>
+<p>4) The distance between the car and the pedestrian is unknown</p>
+
 
 
 <h3>Solution:</h3>
