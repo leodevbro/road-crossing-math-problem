@@ -88,6 +88,74 @@ In Georgian (ქართული): https://drive.google.com/file/d/0B_4P3RNorJ
 <h3>Answer:</h3>
 <p>α = arcsin(1/n)</p>
 
+
+<table>
+  <thead>
+    <tr>
+      <th>n (n > 1)</th>
+      <th>α (0 &leq; α &lt; 90°)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.1</td>
+      <td>≈65.380023°</td>
+    </tr>
+    <tr>
+      <td>1.5</td>
+      <td>≈41.810315°</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>=30°</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>≈19.471221°</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>≈14.477512°</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>≈11.536959°</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>≈5.73917°</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>≈3.822554°</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>≈2.865984°</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>≈1.145992°</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>≈0.572967°</td>
+    </tr>
+    <tr>
+      <td>1000</td>
+      <td>≈0.057296°</td>
+    </tr>
+  </tbody>
+</table>
+<a href="https://www.rapidtables.com/calc/math/Sin_Calculator.html">Calculator used</a>
+
+
+<br />
+<br />
+<br />
+
+
+
 <h3>Geogebra plot:</h3>
 <p>y = b + d ⋅ tan(α) - n⋅V⋅d/(V ⋅ cos(α))</p>
 <p>and</p>
